@@ -1,6 +1,4 @@
 ✨ CODSOFT INTERNSHIP PROJECTS
-😵‍💫 What's This?
-This is a repo of projects for codsoft intership program
 
 ✒️ Tasks
  To-Do-List: command-line based todo application with menu as well.
